@@ -23,7 +23,7 @@ require "settings/init.php";
 <div class="container justify-content-center d-flex mt-5">
     <div class="row">
         <div class="col col-md-4 mt-3">
-            <a href="opgaver.php"><button class="btn btn-primary p-5 fs-1 fw-bold text-white w-100">ToDo</button></a><br>
+            <a href="opgaver.php"><button class="btn btn-primary p-5 fs-1 fw-bold text-white w-100">Opg.</button></a><br>
         </div>
         <div class="col col-md-4 mt-3">
             <a href="events.php"><button class="btn btn-primary p-5 fs-1 fw-bold text-white">Events</button></a><br>
